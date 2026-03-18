@@ -113,13 +113,13 @@ context = manager.get_context_for_prompt(include_recall=5)
 ## Installation
 
 ```bash
-pip install memcore
+pip install memcore-ai
 ```
 
 For vector search support:
 
 ```bash
-pip install memcore[vector]
+pip install memcore-ai[vector]
 ```
 
 ## Quick Start

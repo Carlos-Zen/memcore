@@ -113,13 +113,13 @@ context = manager.get_context_for_prompt(include_recall=5)
 ## 安装
 
 ```bash
-pip install memcore
+pip install memcore-ai
 ```
 
 如需向量搜索支持:
 
 ```bash
-pip install memcore[vector]
+pip install memcore-ai[vector]
 ```
 
 ## 快速开始
